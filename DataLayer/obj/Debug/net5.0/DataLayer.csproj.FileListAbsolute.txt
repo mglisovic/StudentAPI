@@ -1,0 +1,15 @@
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\bin\Debug\net5.0\DataLayer.dll
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\bin\Debug\net5.0\Shared.dll
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\bin\Debug\net5.0\Shared.pdb
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CopyComplete
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\obj\Debug\net5.0\DataLayer.dll
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\obj\Debug\net5.0\refint\DataLayer.dll
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+D:\SSA\Priprema za klk\StudentAPI\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
